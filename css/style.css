@@ -160,4 +160,8 @@ img {
     .steps, .why-us{
         margin: 0;
     }
+
+    .text-center{
+        padding-top: 2rem;
+    }
 }
